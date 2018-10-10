@@ -3,4 +3,4 @@ Philly.NET first repository
 
 Some new stuff
 
-done in notepad
+done in Notepad.
